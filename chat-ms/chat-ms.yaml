@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: chat-ms
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Chat-ms"
+  contactDetails:
+    name: "Lee Zi Yang - Developer"
+    email: "ziyang8254@gmail.com"

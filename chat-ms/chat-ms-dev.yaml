@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: chat-ms
+
+build:
+  version: "dev.mode 1.0"
+
+accounts:
+  message: "Welcome to Chat-ms dev_mode"
+  contactDetails:
+    name: "Lee Zi Yang - Developer"
+    email: "ziyang8254@gmail.com"
